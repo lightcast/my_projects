@@ -17,8 +17,9 @@ https://github.com/lightcast/checkers
 
 https://github.com/lightcast/chess
 
-Hangman
-https://github.com/lightcast/hangman
+## Hangman <br />
+
+https://github.com/lightcast/hangman <br />
 
 
 Paint
