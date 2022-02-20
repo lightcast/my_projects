@@ -1,26 +1,30 @@
 This repository is a list of my public projects.
 
 
-Programming
-Raven
-
-https://github.com/lightcast/raven
-
-
-Games
-https://github.com/lightcast/tic-tac-toe
-
-https://github.com/lightcast/sudoku
-
-https://github.com/lightcast/checkers
+# Programming <br />
+### Raven <br />
+https://github.com/lightcast/raven <br />
 
 
-https://github.com/lightcast/chess
+# Games <br />
 
-## Hangman <br />
+### Tic-Tac-Toe <br />
 
+https://github.com/lightcast/tic-tac-toe <br />
+
+### Sudoku <br />
+https://github.com/lightcast/sudoku <br />
+
+### Checkers <br />
+https://github.com/lightcast/checkers <br />
+
+### Chess <br />
+https://github.com/lightcast/chess <br />
+
+### Hangman <br />
 https://github.com/lightcast/hangman <br />
 
 
-Paint
-https://github.com/lightcast/paint
+## Paint <br />
+
+https://github.com/lightcast/paint <br />
