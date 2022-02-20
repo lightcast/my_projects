@@ -5,6 +5,13 @@ This repository is a list of my public projects.
 ### Raven <br />
 https://github.com/lightcast/raven <br />
 
+# Chatbot <br />
+
+https://github.com/lightcast/zoey <br />
+
+# Audio 
+https://github.com/lightcast/aerialplayer <br />
+
 
 # Games <br />
 
@@ -28,3 +35,5 @@ https://github.com/lightcast/hangman <br />
 # Paint <br />
 
 https://github.com/lightcast/paint <br />
+
+
