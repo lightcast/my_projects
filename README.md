@@ -37,3 +37,7 @@ https://github.com/lightcast/hangman <br />
 https://github.com/lightcast/paint <br />
 
 
+# Chrome extension <br />
+
+https://github.com/lightcast/youtubehistory <br />
+
