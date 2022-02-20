@@ -41,3 +41,6 @@ https://github.com/lightcast/paint <br />
 
 https://github.com/lightcast/youtubehistory <br />
 
+# Algorithms extension <br />
+
+https://github.com/lightcast/algorithms <br />
