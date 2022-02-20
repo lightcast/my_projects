@@ -25,6 +25,6 @@ https://github.com/lightcast/chess <br />
 https://github.com/lightcast/hangman <br />
 
 
-## Paint <br />
+# Paint <br />
 
 https://github.com/lightcast/paint <br />
